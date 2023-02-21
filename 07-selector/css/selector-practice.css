@@ -1,0 +1,20 @@
+h1,
+.paragraphe {
+    color: grey;
+}
+
+h2 {
+    color: blue;
+}
+
+.title-link {
+    color: red;
+}
+
+h4, .list-sports li {
+    color: orange;
+}
+
+.list-movies {
+    color: green;
+}
